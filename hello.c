@@ -1,6 +1,14 @@
 #include <stdio.h>
-void main()
+char main()
 {
-    printf("나랑...겨울방학에 플젝할래...?");
-    return;
+    printf("축 장지윤 전과 승인");
+    return ("깡노");
+}
+
+#include <stdio.h>
+
+char *rhkRkRsh()
+{
+    printf("축 장지윤 전과 승인\n");
+    return "갬곰헝루";
 }
