@@ -11,4 +11,5 @@ char *rhkRkRsh()
 {
     printf("축 장지윤 전과 승인\n");
     return "갬곰헝루";
+    // 진짜 언제 해..?
 }
